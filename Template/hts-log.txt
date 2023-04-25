@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 30 Aug 2022 15:22:38 at https://themesflat.com/html/janelas/home2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themesflat.com/html/janelas/home2.html -O1 "E:\Templates\janelas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:24:54	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/page-blog-single.html (from https://themesflat.com/html/janelas/blog-standard.html)
+15:24:54	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/stylesheet/fonts/flexslider-icon.eot (from https://themesflat.com/html/janelas/stylesheet/flexslider.css)
+15:24:54	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/stylesheet/fonts/flexslider-icon.eot? (from https://themesflat.com/html/janelas/stylesheet/flexslider.css)
+15:24:54	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/stylesheet/fonts/flexslider-icon.woff (from https://themesflat.com/html/janelas/stylesheet/flexslider.css)
+15:24:54	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/stylesheet/fonts/flexslider-icon.ttf (from https://themesflat.com/html/janelas/stylesheet/flexslider.css)
+15:24:54	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/stylesheet/fonts/flexslider-icon.svg (from https://themesflat.com/html/janelas/stylesheet/flexslider.css)
+15:24:54	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/stylesheet/owl.video.play.png (from https://themesflat.com/html/janelas/stylesheet/owl.carousel.min.css)
+15:24:54	Warning: 	File not parsed, looks like binary: https://themesflat.com/html/janelas/fonts/fontawesome-webfont.woff2?v=4.7.0
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/fonts/glyphicons-halflings-regular.eot (from https://themesflat.com/html/janelas/stylesheet/bootstrap.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/fonts/glyphicons-halflings-regular.eot? (from https://themesflat.com/html/janelas/stylesheet/bootstrap.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/fonts/glyphicons-halflings-regular.woff2 (from https://themesflat.com/html/janelas/stylesheet/bootstrap.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/fonts/glyphicons-halflings-regular.woff (from https://themesflat.com/html/janelas/stylesheet/bootstrap.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/fonts/glyphicons-halflings-regular.ttf (from https://themesflat.com/html/janelas/stylesheet/bootstrap.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/fonts/glyphicons-halflings-regular.svg (from https://themesflat.com/html/janelas/stylesheet/bootstrap.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/rev-slider/fonts/revicons/revicons90c690c6.eot?5510888 (from https://themesflat.com/html/janelas/rev-slider/css/settings.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/rev-slider/fonts/revicons/revicons90c690c6.woff?5510888 (from https://themesflat.com/html/janelas/rev-slider/css/settings.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/rev-slider/fonts/revicons/revicons90c690c6.ttf?5510888 (from https://themesflat.com/html/janelas/rev-slider/css/settings.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/rev-slider/fonts/revicons/revicons90c690c6.svg?5510888 (from https://themesflat.com/html/janelas/rev-slider/css/settings.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/rev-slider/css/openhand.123 (from https://themesflat.com/html/janelas/rev-slider/css/settings.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/rev-slider/css/closedhand.123 (from https://themesflat.com/html/janelas/rev-slider/css/settings.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/rev-slider/assets/gridtile.png (from https://themesflat.com/html/janelas/rev-slider/css/settings.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/rev-slider/assets/gridtile_white.png (from https://themesflat.com/html/janelas/rev-slider/css/settings.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/rev-slider/assets/gridtile_3x3.png (from https://themesflat.com/html/janelas/rev-slider/css/settings.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/rev-slider/assets/gridtile_3x3_white.png (from https://themesflat.com/html/janelas/rev-slider/css/settings.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/rev-slider/assets/coloredbg.png (from https://themesflat.com/html/janelas/rev-slider/css/settings.css)
+15:24:55	Error: 	"Not Found" (404) at link https://themesflat.com/html/janelas/rev-slider/assets/loader.gif (from https://themesflat.com/html/janelas/rev-slider/css/settings.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 17 seconds : 213 links scanned, 187 files written (13533311 bytes overall) [11883478 bytes received at 86740 bytes/sec], 2549035 bytes transferred using HTTP compression in 86 files, ratio 27%, 53.2 requests per connection
+(25 errors, 1 warnings, 0 messages)

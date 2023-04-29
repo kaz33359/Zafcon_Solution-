@@ -3848,10 +3848,10 @@ transition: all 0.3s ease;
 /* Page Contact */
 .contact-us-style li span i{
   font-size: 44px;
-  background-color: #E3CCA1;
+  background-color: #000000;
   padding: 19px 27px 17px 24px;
   border-radius: 5px;
-  color: #434E6E !important;
+  color: #ffffff !important;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
@@ -3994,7 +3994,7 @@ transition: all 0.3s ease;
 }
 
 .questions-contact .btn-style-5 .btn-title::before {
-  background-color: #434e6e !important;
+  background-color: #555555 !important;
   color: #fff ;
 }
 

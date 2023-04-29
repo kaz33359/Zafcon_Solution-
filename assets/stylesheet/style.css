@@ -3509,7 +3509,7 @@ input:active {
   font-family: "FontAwesome";
   font-size: 30px;
   line-height: 55px;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 .footer-contact .call-us .content-call-us {
@@ -3528,7 +3528,7 @@ input:active {
   font-family: "icomoon";
   font-size: 17px;
   line-height: 55px;
-  color: black;
+  color: rgb(255, 255, 255);
   background-color: black;
 }
 
@@ -3537,7 +3537,7 @@ input:active {
   font-family: "FontAwesome";
   font-size: 26px;
   line-height: 55px;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 .footer-contact .text a {

@@ -278,7 +278,7 @@
 }
 
 .flat-slider .text-one {
-  color: #e3cca1;
+  color: #000000;
   font-weight: 500 !important;
   text-transform: uppercase;
   font-size: 160px !important;
@@ -410,7 +410,7 @@
   left: 7.9%;
   width: 83.3%;
   height: 78.2%;
-  background-color: #434e6e;
+  background-color: #000;
 }
 
 .content-about {
@@ -438,7 +438,7 @@
   font-size: 12px;
   padding: 7px 5px 5px 4px;
   border-radius: 50%;
-  background-color: #E3CCA1;
+  background-color: #121212;
   color: #fff;
   margin-right: 5px;
   transition: all 0.3s ease-in-out;
@@ -446,7 +446,7 @@
 
 .iconlist-about li:hover::before{
   background-color: transparent;
-  color: #E3CCA1;
+  color: black;
 }
 
 .iconlist-about li span{
@@ -455,7 +455,7 @@
     font-family: "Rubik", sans-serif;
     padding-top: 2px;
     transition: all 0.3s ease-in-out;
-    color: #565872;
+    color: #000;
 }
 
 .iconlist-about .list-about-style2 span{
@@ -506,7 +506,7 @@
   width: 49%;
   height: 63.5%;
   z-index: -2;
-  background-color: #E3CCA1;
+  background-color: #000000;
   top: 0;
   left: 0;
 }
@@ -515,7 +515,7 @@
   font-size: 16px;
   line-height: 20px;
   letter-spacing: 3.3px;
-  color: #E3CCA1;
+  color: #535353;
   font-family: "Rubik", sans-serif;
   font-weight: 500;
   text-transform: uppercase;
@@ -556,18 +556,20 @@
   margin-right: 3%;
   float: left;
   margin-bottom: 14px;
-  background-color: #F8F8F8;
+  background-color: #e6e6e6;
   padding: 27px 35px 26px 14px;
+  border-radius: 10px;
 }
 
 .icon-box li::before{
+  color:#fff;
   content: "\e90a";
   font-family: "icomoon";
   margin-right: 2px;
   font-size: 12px;
   padding: 14px 12px 14px 12px;
   border-radius: 50%;
-  background-color: #e3cca1;
+  background-color: #000000;
   transition: all 0.3s ease-in-out;
 }
 
@@ -807,7 +809,7 @@ margin-bottom: 2px;
   line-height: 67px;
   font-family: "Rubik", sans-serif;
   font-weight: bold;
-  color: rgba(67, 78, 110, 10%);
+  color: rgb(83 89 108);
 }
 
 .image-box:hover .icon-window img{
@@ -817,7 +819,7 @@ margin-bottom: 2px;
 .icon-window{
   width: 92px;
   height: 96px;
-  background-color: #E3CCA1;
+  background-color: #000000;
   text-align: center;
   padding: 17px 0 5px 0;
   float: right;
@@ -1007,7 +1009,7 @@ margin-bottom: 2px;
 
 .flat-tabs .menu-tab li:hover a,
 .flat-tabs .menu-tab li.active a {
-  background-color: #e3cca1 !important;
+  background-color: #bcbcbc !important;
   color: #434E6E !important;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -1252,6 +1254,7 @@ margin-bottom: 2px;
   float: left;
   width: 33.33%;
   padding: 0 15px;
+  
 }
 
 /* Client Testimonials
@@ -1321,8 +1324,9 @@ margin-bottom: 2px;
 }
 
 .subscribe #formsubsribe input[type="text"] {
-  background-color: #fff;
+  background-color: #a9a9a9;
   border: none;
+  border-radius: 10px;
 }
 
 .footer-widget .subscribe{
@@ -2341,7 +2345,7 @@ margin-bottom: 2px;
   transition: all 0.3s ease;
   font-size: 16px;
   font-weight: 500;
-  color: #434E6E;
+  color: #000000;
   padding: 0 27px 0 28px;
   margin: 0 6px 0 -7px;
 }
@@ -2354,14 +2358,14 @@ margin-bottom: 2px;
 .flat-tabs-type4 .menu-tab li.active a, 
 .flat-tabs-type4 .menu-tab li a:hover {
   color: #434E6E;
-  background: #E3CCA1;
+  background: #6c6c6c;
   transition: all 0.3s ease;
 }
 
 .flat-tabs-type4 {
   /* margin-top: -32.9%; */
   padding: 61px 0 63px 0;
-  background-color: #434E6E;
+  background-color: #141516;
 }
 
 .flat-tabs-type4 .content-tab{
@@ -2380,7 +2384,7 @@ margin-bottom: 2px;
 }
 
 .flat-tabs-type4 .content-tab .case{
-background-color: #485373;
+background-color: #6c6c6c;
 }
 
 .case-tab .featured-post .title a {
@@ -2479,7 +2483,7 @@ background-color: #485373;
   visibility: hidden;
   position: absolute;
   background: rgb(67,78,110);
-  background: linear-gradient(90deg, rgba(67,78,110,1) 0%, rgba(67,78,110,1) 100%);
+  background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgba(67,78,110,1) 100%);
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;

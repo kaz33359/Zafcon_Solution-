@@ -3449,8 +3449,8 @@ input:active {
 
 
 #footer .topbar-socials a:hover {
-  color: black !important;
-  background-color: black !important;
+  color: #626262 !important;
+  background-color: #626262 !important;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -3550,7 +3550,7 @@ input:active {
 }
 
 .footer-contact .text a:hover {
-  color: black;
+  color: #626262;
 }
 
 .footer-contact .mail {
@@ -3572,7 +3572,7 @@ input:active {
 }
 
 .link ul li a:hover {
-  color: black;
+  color: #626262;
 }
 
 .tf-info span{

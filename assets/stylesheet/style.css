@@ -1586,7 +1586,7 @@ margin: 15px 0 13px 0;
 }
 
 .btn-style-5:hover .btn-title {
-  color: black;
+  color: rgb(114, 114, 114);
 }
 
 .btn-style-5 .btn-title::before {

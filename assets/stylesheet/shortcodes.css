@@ -1010,7 +1010,7 @@ margin-bottom: 2px;
 .flat-tabs .menu-tab li:hover a,
 .flat-tabs .menu-tab li.active a {
   background-color: #bcbcbc !important;
-  color: #434E6E !important;
+  color: #000000 !important;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
@@ -2327,7 +2327,7 @@ margin-bottom: 2px;
   line-height: 61px;
   border-radius: 34px;
   margin: 0 auto;
-  width: 414px;
+  width: 430px;
 }
 
 .flat-tabs-type4 .menu-tab li {
@@ -2351,7 +2351,7 @@ margin-bottom: 2px;
 }
 
 .flat-tabs-type4 .featured-post .title a:hover {
-  color: #E3CCA1;
+  color: #000000;
   transition: all 0.3s ease;
 }
 

@@ -3,7 +3,7 @@
 ---------------------------------------------------------------*/
 :root {
     --primary-color: #434e6e !important;
-    --primary-color2: #e3cca1 !important;
+    --primary-color2: #f3d287 !important;
     --white-color: #fff !important;
     --bg-color: #f8f8f8 !important;
   }
@@ -29,11 +29,11 @@
   }
   
   .color-e3cca1{
-    color: #e3cca1 !important;
+    color: #f3d287 !important;
   }
   
   .color-style5{
-    color: #e3cca1 !important;
+    color: #f3d287 !important;
   }
   
   .color-style2{
@@ -41,7 +41,7 @@
   }
   
   .bg-color {
-    background-color: #000000 !important;
+    background-color: #f3d287 !important;
   }
   
   .bg-white{
@@ -49,7 +49,7 @@
   }
   
   .bg-color-style3{
-    background-color: #000000 !important;
+    background-color: #f3d287 !important;
   }
   
   .bg-color-style2{
@@ -57,7 +57,7 @@
   }
   
   .bg-color-style5{
-    background-color: #E3CCA1;
+    background-color: #f3d287;
     border: none !important;
   }
   
@@ -66,7 +66,7 @@
   }
   
   .hv-color-st1:hover {
-    color: #E3CCA1 !important;
+    color: #f3d287 !important;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;

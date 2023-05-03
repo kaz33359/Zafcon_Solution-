@@ -1253,7 +1253,7 @@ margin: 15px 0 13px 0;
 }
 
 .themesflat-button-style2 span{
-  background-color: black; color: rgb(255, 255, 255);
+  background-color: #f3d287; color: rgb(255, 255, 255);
   border-radius: 10px ;
 }
 
@@ -3357,7 +3357,7 @@ transition: all 0.3s ease-in-out;
 
  .overlay-ft {
   position: absolute;
-    background-color: black;
+    background-color: #3a3221;
     top: 0;
     left: 0;
     width: 100%;
@@ -3450,7 +3450,7 @@ input:active {
 
 #footer .topbar-socials a:hover {
   color: #626262 !important;
-  background-color: #626262 !important;
+  background-color: #f3d287 !important;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;

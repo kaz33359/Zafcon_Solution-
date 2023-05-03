@@ -33,7 +33,7 @@
 /* top-bar
 -------------------------------------------------------------- */
 .top-bar-style2{
-  background-color: #08080861;
+  background-color: #f3d287;
   height: 50px;
   position: relative;
 }
@@ -410,7 +410,7 @@
   left: 7.9%;
   width: 83.3%;
   height: 78.2%;
-  background-color: #000;
+  background-color: #f3d287;
 }
 
 .content-about {
@@ -438,7 +438,7 @@
   font-size: 12px;
   padding: 7px 5px 5px 4px;
   border-radius: 50%;
-  background-color: #121212;
+  background-color: #f3d287;
   color: #fff;
   margin-right: 5px;
   transition: all 0.3s ease-in-out;
@@ -506,7 +506,7 @@
   width: 49%;
   height: 63.5%;
   z-index: -2;
-  background-color: #000000;
+  background-color: #f3d287;
   top: 0;
   left: 0;
 }
@@ -569,7 +569,7 @@
   font-size: 12px;
   padding: 14px 12px 14px 12px;
   border-radius: 50%;
-  background-color: #000000;
+  background-color: #f3d287;
   transition: all 0.3s ease-in-out;
 }
 
@@ -819,7 +819,7 @@ margin-bottom: 2px;
 .icon-window{
   width: 92px;
   height: 96px;
-  background-color: #000000;
+  background-color: #f3d287;
   text-align: center;
   padding: 17px 0 5px 0;
   float: right;
@@ -1698,7 +1698,7 @@ margin-bottom: 2px;
 }
 
 .tf-text-hv a:hover{
-  color: #E3CCA1 !important;
+  color: #000000 !important;
   transition: all .3s ease;
 }
 
@@ -1959,7 +1959,7 @@ margin-bottom: 2px;
 }
 
 .questions-style .image-form .icon-phone-style2::before{
-  background-color: #E3CCA1;
+  background-color: #f3d287;
   border: none !important;
 }
 
@@ -2447,7 +2447,7 @@ background-color: #6c6c6c;
   visibility: hidden;
   position: absolute;
   background: rgb(67,78,110);
-  background: linear-gradient(90deg, rgb(85 85 85) 0%, rgb(55, 53, 53) 100%);
+  background: linear-gradient(90deg, #f3d899 0%, #7f755e 100%);
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;
@@ -2483,7 +2483,7 @@ background-color: #6c6c6c;
   visibility: hidden;
   position: absolute;
   background: rgb(67,78,110);
-  background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgba(67,78,110,1) 100%);
+  background: linear-gradient(90deg, #f3d287, #f1daa4 100%);
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;

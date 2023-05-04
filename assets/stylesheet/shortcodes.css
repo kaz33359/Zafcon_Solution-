@@ -347,7 +347,7 @@
 
 .slider-style2{
   position: relative !important;
-  background-image: url(../images/Slider/imgbg-slide.jpg);
+  background-image: url(../images/Slider/eduardo-goody-y7Sd2k6wABY-unsplash.jpg);
   background-size: cover;    
   background-position-x: center;
   background-position-y: center;
@@ -450,7 +450,7 @@
 }
 
 .iconlist-about li span{
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 400;
     font-family: "Rubik", sans-serif;
     padding-top: 2px;
@@ -591,7 +591,7 @@
 }
 
 .icon-box li span{  
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
   font-family: "Rubik", sans-serif;
   padding-top: 2px;
@@ -2148,7 +2148,7 @@ margin-bottom: 2px;
   opacity: 1;
   transition: 0.4s ease-in-out;
   bottom: 16px;
-  height: 114px;
+  height: 70px;
 }
 
 .partners-style2 .profolio-show {
@@ -2173,7 +2173,7 @@ margin-bottom: 2px;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
   bottom: 16px;
-  height: 114px;
+  height: 70px;
   left: 4%;
 }
 
@@ -3848,7 +3848,7 @@ transition: all 0.3s ease;
 /* Page Contact */
 .contact-us-style li span i{
   font-size: 44px;
-  background-color: #000000;
+  background-color: #f3d287;
   padding: 19px 27px 17px 24px;
   border-radius: 5px;
   color: #ffffff !important;

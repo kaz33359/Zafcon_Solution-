@@ -2055,10 +2055,14 @@ margin-bottom: 2px;
 }
 
 .questions-style #commentform .name-wrap,
-.questions-style #commentform .mail-wrap,
 .questions-style #commentform .select-wrap,
 .questions-style #commentform .phone-wrap {
   width: 47.5%;
+  float: left;
+  margin-right: 5%;
+}
+.questions-style #commentform .mail-wrap{
+  width: 100%;
   float: left;
   margin-right: 5%;
 }

@@ -332,35 +332,85 @@ Do You Have Any Questions? We’ll Be Happy To Assist!
 
 <div class="form-questions boxshadow bg-white wow fadeInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms">
 <div id="respond" class="comment-respond">
-<form action="#" method="post" id="commentform" class="commentform">
-<div class="text-wrap clearfix">
-<fieldset class="name-wrap">
-<input type="text" id="author" class="tb-my-input" name="author" tabindex="1" placeholder="Full Name" value="" size="32" aria-required="true" required />
-</fieldset>
-<fieldset class="phone-wrap">
-<input type="number" id="phone" class="tb-my-input" name="phone" tabindex="2" placeholder="Phone Number" value="" aria-required="true" required />
-</fieldset>
-<fieldset class="mail-wrap">
-<input type="email" id="email" class="tb-my-input" name="phone" tabindex="2" placeholder="Email Address" value="" size="32" aria-required="true" required />
-</fieldset>
-<fieldset class="select-wrap">
-<div class="select">
-<select>
-<option value="services">Choose services</option>
-<option value="services1">Choose services 01</option>
-<option value="services2">Choose services 02</option>
-</select>
-</div>
-</fieldset>
-</div>
-<fieldset class="message-wrap">
-<textarea id="comment-message" name="comment" rows="8" tabindex="4" placeholder="Your Message" aria-required="true" required></textarea>
-</fieldset>
-<p class="form-submit">
-<button type="submit" class="themesflat-button-style3 btn-style-5 no-boder">
-<span class="btn-title">Send message</span>
-</button>
-</p>
+  <form
+  action="mailto:info@zafconsolutions.com"
+  method="post"
+  id="commentform"
+  class="commentform"
+  enctype="text/plain"
+  target="_blank"
+>
+  <div class="text-wrap clearfix">
+    <fieldset class="name-wrap">
+      <input
+        type="text"
+        id="author"
+        class="tb-my-input"
+        name="author"
+        tabindex="1"
+        placeholder="Full Name"
+        value=""
+        size="32"
+        aria-required="true"
+        required
+      />
+    </fieldset>
+    <fieldset class="phone-wrap">
+      <input
+        type="number"
+        id="phone"
+        class="tb-my-input"
+        name="phone"
+        tabindex="2"
+        placeholder="Phone Number"
+        value=""
+        aria-required="true"
+        required
+      />
+    </fieldset>
+    <fieldset class="mail-wrap">
+      <input
+        type="email"
+        id="email"
+        class="tb-my-input"
+        name="phone"
+        tabindex="2"
+        placeholder="Email Address"
+        value=""
+        size="32"
+        aria-required="true"
+        required
+      />
+    </fieldset>
+    <!-- <fieldset class="select-wrap">
+      <div class="select">
+        <select>
+          <option value="services">Choose services</option>
+          <option value="services1">Choose services 01</option>
+          <option value="services2">Choose </option>
+        </select>
+      </div>
+    </fieldset> -->
+  </div>
+  <fieldset class="message-wrap">
+    <textarea
+      id="comment-message"
+      name="comment"
+      rows="8"
+      tabindex="4"
+      placeholder="Your Message"
+      aria-required="true"
+      required
+    ></textarea>
+  </fieldset>
+  <p class="form-submit">
+    <button
+      type="submit"
+      class="themesflat-button-style2 btn-style-5 no-boder"
+    >
+     <span class="btn-title">Send message</span>
+    </button>
+  </p>
 </form>
 </div>
 
@@ -418,7 +468,10 @@ Do You Have Any Questions? We’ll Be Happy To Assist!
     <div class="tf-info phone">
       <i class="icon-phone"></i>
       <div class="content-phone">
-        <div class="text"><span>+91 8891340770</span></div>
+        <div class="text"><a href="tel:+918891340770"
+          >+91 8891340770</a
+        ></span
+      ></div>
         <!-- <div class="text"><span>000 2324 39493</span></div> -->
       </div>
     </div>

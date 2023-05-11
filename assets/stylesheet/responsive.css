@@ -1365,11 +1365,12 @@
 	}
 
 	.questions-style #commentform .name-wrap, 
-	.questions-style #commentform .mail-wrap, 
-	.questions-style #commentform .select-wrap, 
-	.questions-style #commentform .phone-wrap {
+	.questions-style #commentform .phone-wrap, 
+	.questions-style #commentform .select-wrap,  {
 		width: 47%;
 	}
+	.questions-style #commentform .mail-wrap {
+		width: 100%;}
 
 	.questions-style .image-form .contact{
 		width: 92%;

@@ -293,7 +293,7 @@ a {
 
 a:hover,
 a:focus {
-  color: black;
+  color: #f3d287;
   text-decoration: none;
   outline: 0;
   -webkit-transition: all 0.3s ease-in-out;

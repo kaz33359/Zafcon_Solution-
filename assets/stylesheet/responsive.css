@@ -704,6 +704,7 @@
 
 	.tf-about .title-section p{
 		padding: 0 15px;
+		text-align: justify;
 	}
 
 	.tf-company-team .col-md-3{

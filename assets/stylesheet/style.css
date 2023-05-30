@@ -2255,7 +2255,7 @@ visibility: visible;
   display: block;
   margin: 0 auto;
   width: 100%;
-  background-color: #000000;
+  background-color: #465273;
   z-index: 1000;
   position: absolute;
 }
@@ -2271,7 +2271,7 @@ visibility: visible;
   margin:0;
   position: relative;
   text-align: left;
-  border-top: 1px solid #f3d287;
+  border-top: 1px solid #000000;
   cursor: pointer;
 }
 

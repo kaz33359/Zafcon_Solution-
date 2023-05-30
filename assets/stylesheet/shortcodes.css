@@ -348,7 +348,7 @@
 
 .slider-style2{
   position: relative !important;
-  background-image: url(../images/images/rafael-garcin-ISQ3M9fPa0g-unsplash.jpg);
+  background-image: url(../images/images/index2.jpg);
   background-size: cover;    
   background-position-x: center;
   background-position-y: center;
@@ -362,7 +362,7 @@
 }
 .overlay-slider1{
   position: absolute;
-  background-color: #212E54;
+  /* background-color: #212E54; */
   top: 0;
   left: 0;
   height: 100%;

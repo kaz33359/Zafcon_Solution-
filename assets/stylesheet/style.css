@@ -2424,7 +2424,7 @@ display: none;
 /* Page-title 
 ---------------------------------------------------------------*/
 .page-title {
-  padding-top: 179px;
+  padding-top: 54px;
   justify-content: center;
   position: relative;
   z-index: 1;
@@ -2476,7 +2476,7 @@ display: none;
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-color: #767e95;
+  /* background-color: #767e95; */
   opacity: 0.9;
 }
 
